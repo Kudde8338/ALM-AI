@@ -1,0 +1,5 @@
+v0.102
+
+I have modified the code to return all the matches of a certain relevancy applicable to each word. Then it returns each word in prompt as a file and prints all the results of that word in the file.
+
+My next step is to create a function that can record human speech and turn it into index and pointers so it will find the correct responses.

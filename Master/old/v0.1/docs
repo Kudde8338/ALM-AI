@@ -1,0 +1,5 @@
+V0.1
+
+First edition alm(apprehensive lists module)
+It uses practical lists and pointers in order to find the most suitable response. Atleast that is the intended way for it to work. My idea is that when i feed it a prompt it will check in a register for it. For every suitable match it finds it will return a potinter that shows me where to find info from that special word. It will then go through every word in the prompt and search for information at the most occuring pointers. One promptword can return multiple pointers. for example what will return many pointers while a name will return a few. Thats because what is occuring more often.
+
